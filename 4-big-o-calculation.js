@@ -14,4 +14,4 @@ function funChallenge(input) {
 }
 
 funChallenge([]);
-// BIG O(3 + 4n) -> GIG O(n)
+// BIG O(3 + 4n) -> BIG O(n)
