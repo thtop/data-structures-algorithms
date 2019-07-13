@@ -1,6 +1,6 @@
 const printAllNumbersThenAllPairSums = numbers => {
 
-    console.log('these are the munbers: ');
+    console.log('these are the numbers: ');
     numbers.forEach(number => console.log(number));
 
     console.log('and these are their sums: ');
