@@ -12,4 +12,4 @@ function arrayOfHiNTime(n) {
     }
     return hiArray;
 }
-console.log(arrayOfHiNTime(6));
+console.log(arrayOfHiNTime(6)); // O(n)
