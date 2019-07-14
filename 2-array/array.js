@@ -1,3 +1,4 @@
+// static array
 const strings = ['a', 'b', 'c', 'd'];
 // 4*4 = 16 bytes of storage
 
@@ -21,3 +22,16 @@ console.log(strings);
 strings.splice(2, 0, 'alien'); // O(n/2) --> O(n)
 console.log(strings);
 
+/**
+ * C++
+int a[20];
+int b[5] {1,2,3,4,5}
+*/
+// dynamic array
+const strings2 = ['a', 'b', 'c', 'd'];
+
+// Loop over this item -> copy them -> 
+// -> and move it to a different location
+// -> with now doubles the space ==> o(n)
+
+strings2.push('z'); // O(n)
