@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "nodemon 4-linked-lists/main.js"
+    "start": "nodemon 4-linked-lists/linked-list.js"
   },
   "keywords": [],
   "author": "",
