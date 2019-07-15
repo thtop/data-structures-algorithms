@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "nodemon 3-hash/hashTable.js"
+    "start": "nodemon 3-hash/exercise-first-recurring"
   },
   "keywords": [],
   "author": "",
