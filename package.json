@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "nodemon 3-hash/exercise-first-recurring"
+    "start": "nodemon 4-linked-lists/main.js"
   },
   "keywords": [],
   "author": "",
