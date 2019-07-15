@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "nodemon 2-array/merge-sorted.js"
+    "start": "nodemon 3-hash/main.js"
   },
   "keywords": [],
   "author": "",
