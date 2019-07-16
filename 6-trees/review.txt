@@ -1,0 +1,7 @@
+## Good
+- Better than O(n)
+- Ordered
+- Flexible Size
+
+## Bad 
+No O(1) operations
