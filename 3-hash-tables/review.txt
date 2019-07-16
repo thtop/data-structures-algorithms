@@ -1,0 +1,8 @@
+## Goog 
+- Fast lookups* (Good collision resolution needed)
+- Fast inserts
+- Flexible Keys
+
+## Bad
+- Unordered
+- Solw key interation
