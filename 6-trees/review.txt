@@ -11,8 +11,8 @@ No O(1) operations
 ## Good
 - Better than O()
 - Priority
-- Flexible Sixe
+- Flexible Size
 - Fast Insert
 
 ## Bad 
-- Slow lookup
+- Slow lookup 
