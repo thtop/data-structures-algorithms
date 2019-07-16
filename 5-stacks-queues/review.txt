@@ -1,0 +1,9 @@
+## Stacks + Queues 
+
+## Good
+- Fast Operations
+- Fast Peek 
+- Ordered    
+
+## Bad
+- Slow Lookup
