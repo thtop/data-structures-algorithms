@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "nodemon 4-linked-lists/reverse.js"
+    "start": "nodemon 5-stacks-queues/main.js"
   },
   "keywords": [],
   "author": "",
