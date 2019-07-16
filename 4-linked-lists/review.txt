@@ -1,0 +1,9 @@
+## Good
+- Fast Insertion
+- Fast Deletion
+- Ordered
+- Flexible Size
+
+## Bad
+- Slow Lookup
+- More Memory
