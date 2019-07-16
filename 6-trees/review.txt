@@ -1,3 +1,4 @@
+## Binary BinarySearchTree
 ## Good
 - Better than O(n)
 - Ordered
@@ -5,3 +6,13 @@
 
 ## Bad 
 No O(1) operations
+
+## Binary Heaps 
+## Good
+- Better than O()
+- Priority
+- Flexible Sixe
+- Fast Insert
+
+## Bad 
+- Slow lookup
