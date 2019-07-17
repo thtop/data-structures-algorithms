@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "nodemon 7-graphs/Graph.js"
+    "start": "nodemon 8-recursion/inception.js"
   },
   "keywords": [],
   "author": "",
