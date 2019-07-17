@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "nodemon 8-recursion/inception.js"
+    "start": "nodemon 8-recursion/factorial.js"
   },
   "keywords": [],
   "author": "",
