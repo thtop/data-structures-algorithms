@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "nodemon 10-searching/linear.js"
+    "start": "nodemon 10-searching/BinarySearchTree.js"
   },
   "keywords": [],
   "author": "",
