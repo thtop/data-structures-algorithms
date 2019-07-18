@@ -1,9 +1,9 @@
 ## Searching/Traversal
 
-- Linear Search
-- Binary Search
-- Depth First Search
-- Breadth First Search
+- Linear Search O(n)
+- Binary Search O(log n)
+- Depth First Search (DFS)
+- Breadth First Search (BFS)
 
 
 ## BFS
