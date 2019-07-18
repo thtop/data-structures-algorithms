@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "nodemon 8-recursion/fibonacci.js"
+    "start": "nodemon 8-recursion/BinarySearchTree.js"
   },
   "keywords": [],
   "author": "",
