@@ -10,8 +10,6 @@ const sortNumber = basket.sort(function (a, b) {
 console.log('sortNumber', sortNumber);
 
 
-
-
 console.log('2'.charCodeAt(0)); // 54
 console.log('65'.charCodeAt(0)); // 54
 console.log('34'.charCodeAt(0)); // 54
