@@ -4,3 +4,20 @@
 - Binary Search
 - Depth First Search
 - Breadth First Search
+
+
+## BFS
+Good
+- Shortest Path 
+- Closer Nodes
+
+Bad
+- More Memory
+
+## DFS
+Good
+- Less Memory
+- Does Path Exist?
+
+Bad
+- Can Get Slow

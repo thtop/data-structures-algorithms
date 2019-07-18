@@ -147,7 +147,8 @@ JSON.stringify(traverse(tree.root))
 //  4     20
 //1  6  15  170
 
-// [9, 4, 20, 1, 15, 170]
+// [9, 4, 20, 1, 15, 170] BFS
+// [9, 4, 1, 6, 20, 15, 170]
 
 function traverse(node) {
   const tree = {
