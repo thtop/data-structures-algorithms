@@ -1,0 +1,11 @@
+ls 
+
+ls -R 
+
+## Recursive VS Iterative 
+Recursion 
+## Good    
+- DRY 
+- Readability  
+## Bad
+- Large Stack 
