@@ -40,3 +40,6 @@ DFS
 
 //Finding the shortest path
 BFS
+
+## Breadth First Search - Shortest path 
+## Depth First Search - Check to see if it exists
