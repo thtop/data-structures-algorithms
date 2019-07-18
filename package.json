@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "nodemon 9-sorting/selection-sort.js"
+    "start": "nodemon 9-sorting/insertion-sort.js"
   },
   "keywords": [],
   "author": "",
