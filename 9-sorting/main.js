@@ -22,3 +22,7 @@ const result = thai.sort(function (a, b) {
     return a.localeCompare(b);
 });
 console.log('result: ', result)
+
+
+// Sorting In Your Language  
+console.log([1, 2, 3].sort());
